@@ -4,7 +4,7 @@
 // Depto de Sistemas y Computación
 // Ing.En Sistemas Computacionales
 //
-// Autor: Zazueta Lopez Diana  @nickname : ZazuetaDiana
+// Autor: Zazueta Lopez Diana  @ZazuetaDiana
 // Repositorio: https://github.com/ZazuetaDiana/MisPracticasCpp/edit/main/Practica2.cpp
 // Fecha de revisión : 16 de octubre del 2020
 // 
