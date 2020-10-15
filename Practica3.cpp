@@ -4,8 +4,8 @@
 // Depto de Sistemas y Computación
 // Ing.En Sistemas Computacionales
 //
-// Autor: Zazueta Lopez Diana  @nickname : ZazuetaDiana
-// Repositorio:  http: //github.com/tectijuana/
+// Autor: Zazueta Lopez Diana  @ZazuetaDiana
+// Repositorio: https://github.com/ZazuetaDiana/MisPracticasCpp/find/main
 // Fecha de revisión : 16 de octubre del 2020
 // 
 // Objetivo del programa :
