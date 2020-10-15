@@ -1,5 +1,5 @@
 //
-// Practica2.cpp 
+// Practica4.cpp
 // Instituto Tecnológico de Tijuana
 // Depto de Sistemas y Computación
 // Ing.En Sistemas Computacionales
