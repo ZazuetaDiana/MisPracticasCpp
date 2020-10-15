@@ -4,8 +4,8 @@
 // Depto de Sistemas y Computación
 // Ing.En Sistemas Computacionales
 //
-// Autor: Zazueta Lopez Diana  @nickname : ZazuetaDiana
-// Repositorio:  http: //github.com/tectijuana/
+// Autor: Zazueta Lopez Diana  @ZazuetaDiana
+// Repositorio:https://github.com/ZazuetaDiana/MisPracticasCpp/blob/main/Practicas.cpp
 // Fecha de revisión : 16 de octubre del 2020
 // 
 // Objetivo del programa :
@@ -18,7 +18,7 @@ using namespace std;
 int main()
 {
     std::cout << "-----------Hola mundo!-----------\n";
-
+    
     double A;
     cout << "Ingresar edad: "<<endl;
     cin >> A;
