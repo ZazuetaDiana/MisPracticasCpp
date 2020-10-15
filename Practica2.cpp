@@ -5,7 +5,7 @@
 // Ing.En Sistemas Computacionales
 //
 // Autor: Zazueta Lopez Diana  @nickname : ZazuetaDiana
-// Repositorio:  http: //github.com/tectijuana/
+// Repositorio: https://github.com/ZazuetaDiana/MisPracticasCpp/edit/main/Practica2.cpp
 // Fecha de revisión : 16 de octubre del 2020
 // 
 // Objetivo del programa :
