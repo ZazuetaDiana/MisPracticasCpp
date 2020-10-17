@@ -3,7 +3,7 @@
     @@ Depto de Sistemas y Computación
     @@ En g. En Sistemas Computacionales
     @@ Autor: Zazueta Lopez Diana  @ZazuetaDiana
-    @@ Repositorio:
+    @@ Repositorio:https://github.com/ZazuetaDiana/MisPracticasCpp/edit/main/Holamundo.cpp
     @@ Fecha de revisión: 16 octubre del 2020
     @@ 
     @
